@@ -1,2 +1,2 @@
 # Ruokasovellusprojekti
-App that randomly picks out a food 
+App that randomly picks out a food from an array.
