@@ -1,2 +1,2 @@
-# Ruokasovellusprojekti
-App that randomly picks out a food from an array.
+# Food picker app
+App made with Python that randomly picks out food and it's recipe from your own food collection.
