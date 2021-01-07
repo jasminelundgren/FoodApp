@@ -22,6 +22,7 @@ class MyGrid(GridLayout):
         self.email = TextInput(multiline=False)
         self.add_widget(self.email)
 
+
 class FoodApp(App):
     def build(self):
         return MyGrid()
